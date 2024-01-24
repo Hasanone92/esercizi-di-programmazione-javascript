@@ -19,3 +19,10 @@
 */
 
 var cats * 44;
+
+var cats = 5;
+var inline = 2;
+
+var numline = Math.ceil(cats/inLine);
+var missing = (numLines*inLine)=cats;
+console.log('$(cats) gatti in fila per $(inLine) si unirono compatti in $(numLines) file.nel ultima fila rimasero $(missimg) posti gatto disponibile.');
